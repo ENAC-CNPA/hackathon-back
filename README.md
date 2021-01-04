@@ -59,8 +59,10 @@ L'entier de l'exercice sera écrit en TypeScript.
 ### > Objectif
 
 Montrer son talent de spécialiste du spatial !
-(Il est recommandé d'utilisé le package Mongoose)
 Le plus important, la propreté du code TypeScript et la méthodologie.
+
+Il est recommandé d'utilisé le package Mongoose.
+
 
 ### > Étapes
 
