@@ -59,11 +59,11 @@ L'entier de l'exercice sera écrit en TypeScript.
 ### > Objectif
 
 Montrer son talent de spécialiste du spatial !
-
+(Il est recommandé d'utilisé le package Mongoose)
 Le plus important, la propreté du code TypeScript et la méthodologie.
 
 ### > Étapes
 
 1. Créer une route (path) nommée `surface` pour calculer la surface de chaque `feature`
-2. Créer une route (path) nommée `inner` pour déterminer lequel des périmètres est à l'intérieur d'un autre périmètre. (opération a effectuer avec les requêtes mongo spatial)
+2. Créer une route (path) nommée `inner` pour déterminer lequel des périmètres est à l'intérieur d'un autre périmètre. (opération a effectuer avec les requêtes mongo spatial depuis le serveur ExpressJS)
 
